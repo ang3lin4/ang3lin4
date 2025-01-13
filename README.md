@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Angelina
 Third year computer engineering student at University of Turku and first year business student at University of Vaasa. Interested in cyber security, sustainable solutions and international business. Fast learner with a problem-solving mindset and great team working skills.
 
-## Projects
+### Projects
 
 ## Languages and Tools
 
