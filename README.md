@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Angelina
+Third year computer engineering student at University of Turku and first year business student at University of Vaasa. Interested in cyber security, sustainable solutions and international business. Fast learner with a problem-solving mindset and great team working skills.
+
+## Projects
+
+## Languages and Tools
+
+## Connect with me
 
 <!--
 **ang3lin4/ang3lin4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
