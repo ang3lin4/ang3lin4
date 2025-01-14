@@ -8,7 +8,7 @@ _More projects coming soon_
 
 ## Languages and Tools✨
 - Python, Java, Javascript
-- React, HTML5
+- React, HTML, CSS, REST API
 - NodeJS
 - MongoDB, SQL
 - Git, Linux terminal, Postman
