@@ -8,10 +8,11 @@ _More projects coming soon_
 
 ## Languages and Tools✨
 - Python, Java, Javascript
-- React, HTML, CSS, REST API
-- NodeJS
+- React, HTML, CSS
+- NodeJS, REST API
 - MongoDB, SQL
 - Git, Linux terminal, Postman
+- UML
 
 
 ## Connect with me📫
