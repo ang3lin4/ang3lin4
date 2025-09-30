@@ -3,7 +3,7 @@ Fourth year computer engineering student at University of Turku and second year 
 
 ## Projects👾
 
-[Simple Snake Game🐍](https://github.com/ang3lin4/snake_game.git)
+[Simple Snake Game🐍](https://github.com/ang3lin4/snake_game.git)  
 [Pathfinder visualizer🗺️](https://github.com/ang3lin4/pathfinder_visualizer.git)
 
 _More projects coming soon_  
