@@ -14,9 +14,16 @@ _More projects coming soon_
 - React, HTML, CSS
 - NodeJS, REST API
 - MongoDB, SQL
-- Git, Linux terminal, Postman
+- Git, Linux terminal, Postman, Jupyter Notebook
 - UML
 
+## Libraries📚
+- Pygame
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- NeuroKit2
 
 ## Connect with me📫
 **LinkedIn**: www.linkedin.com/in/angelina-pellinen
