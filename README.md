@@ -25,9 +25,6 @@ _More projects coming soon_
 - SciPy
 - NeuroKit2
 
-## Connect with me📫
-**LinkedIn**: www.linkedin.com/in/angelina-pellinen
-
 <!--
 **ang3lin4/ang3lin4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
