@@ -6,7 +6,9 @@ Fourth year computer engineering student at University of Turku and second year 
 [Simple Snake Game🐍](https://github.com/ang3lin4/snake_game.git)  
 [Pathfinding visualizer🗺️](https://github.com/ang3lin4/pathfinder_visualizer.git)
 
-_More projects coming soon_  
+_Currently working on✍️🧠_
+- Leaf image classification using supervised machine learning
+- Image fusion and semantic segmentation combining RGB and infrared images of landscapes
 
 
 ## Languages and Tools✨
